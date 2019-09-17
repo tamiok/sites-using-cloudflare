@@ -94,6 +94,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [producthunt.com](http://producthunt.com)
 - [medium.com](http://medium.com)
 - [4chan.org](http://4chan.org)
+- [negarmovie.com](http://negarmovie.com)
 - [yelp.com](http://yelp.com)
 - [okcupid.com](http://okcupid.com)
 - [zendesk.com](http://zendesk.com) ([Zendesk post and updates | no leaked data found](https://support.zendesk.com/hc/en-us/articles/115003535408))
